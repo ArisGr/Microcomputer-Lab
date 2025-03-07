@@ -59,7 +59,7 @@ This repository contains the work done throughout a university course focused on
 - Read and checked the response from the ESP8266. Displayed "1. Success" on the LCD if successful, otherwise displayed "1. Fail."
 
 #### Set URL Command:
-- Sent an HTTP URL command via UART to set the URL to `http://192.168.1.2:5050/data`.
+- Sent an HTTP URL command via UART to set the URL to `http://<server_ip>:<port>/data`.
 - Displayed "2. Success" if successful, otherwise displayed "2. Fail."
 
 #### Sensor Data Integration:
