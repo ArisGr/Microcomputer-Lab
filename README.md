@@ -1,4 +1,4 @@
-# University Programming Course - ATMega328PB IoT Project
+# Microprocessors Lab Programming Course - ATMega328PB IoT Project
 
 This repository contains the work done throughout a university course focused on embedded systems, programming languages (Assembly and C), and microcontroller programming with the ATMega328PB. The course involved completing 8 laboratory exercises, each with specific goals that built upon the previous ones. The final project, Lab 8, integrated all the concepts learned throughout the course to build a networked IoT system.
 
